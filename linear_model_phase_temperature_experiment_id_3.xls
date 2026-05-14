@@ -1,0 +1,2 @@
+﻿experiment_id,model,a_slope_C_per_deg,b_intercept_C,r_value,r_squared,p_value,std_err,rmse_C,mae_C,n_points
+3,T = a * phase_unwrapped_deg + b,-10.374429527274701,207.11174954628413,-0.9903431638786664,0.9807795822412071,2.0471556556446408e-13,0.38814671095379827,3.28606084428681,2.8096182415179207,16
